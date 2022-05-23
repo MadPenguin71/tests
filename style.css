@@ -1,0 +1,318 @@
+body {
+    color: black;
+    background-color: black;
+}
+#container {
+    display: flex;
+    flex-direction: column;
+    background-color: #190061;
+    width: auto;
+    height: 500px;
+    color: white;
+}
+
+.header {
+    float: right;
+    padding-top: 30px;
+    padding-right: 100px;
+    font-size: 20px;
+    flex-direction: row;
+    color: white;
+}
+
+#containertwo {
+    display: flex;
+    flex-direction: row;
+    width: 1400px;
+    height: 250px;
+    color: white;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-bottom: 75px;
+    gap: 70px;
+    flex: 1;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.boxone {
+    width: 50%;
+    height: 250px;
+    text-align: right;
+    color: white;
+}
+
+.headerone {
+    justify-content: center;
+    padding-right: 150px;
+    font-size: 35px;
+}
+
+#firstimage {
+    height: 300px;
+    padding-top: ;
+    width: 600px;
+    padd
+}
+
+#containerwhite {
+    display: flex;
+    flex-direction: column;
+    background-color: #0C0032;
+    width: auto;
+    color: #1F2937;
+    flex: 0 0 500px;
+    color: #1F2937;
+    align-items: center;
+}
+
+#containerwhitetwo {
+    display: flex;
+    flex-direction: row;
+    width: 1400px;
+    height: 250px;
+    color: white;
+    margin-left: 100px;
+    margin-bottom: ;
+    flex: 1;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-basis: auto;
+    justify-content: flex-start;
+    background-color: #0C0032;
+    
+}
+
+.whiteone {
+    width: 25%;
+    word-break: break-word;
+    border-radius: 20px;
+
+}
+
+.whitetwo {
+    word-break: break-word;
+    width: 25%;
+    border-radius: 20px;
+
+}
+
+.whitethree {
+    width: 25%;
+    word-break: break-word;
+    border-radius: 20px;
+}
+
+
+.whitefour {
+    width: 25%;
+    word-break: break-word;
+    border-radius: 20px;
+}
+
+#secondimage {
+    max-width:100%;
+    border-radius: 10px;
+    gap: 5px;
+
+}
+
+#thirdimage {
+    border-radius: 10px;
+    max-width:100%;
+}
+
+#fourthimage {
+    max-width:100%;
+    border-radius: 10px;
+}
+
+#fifthimage {
+    max-width:100%;
+    max-height: max-content;
+    height: 210px;
+    border-radius: 10px;
+    height: 235px;
+}
+
+#containerwhitethree {
+    display: flex;
+    flex-direction: row;
+    width: 1400px;
+    height: 260px;
+    color: white;
+    margin-left: 100px;
+    margin-bottom: 75px;
+    flex: 1;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-basis: auto;
+    justify-content: flex-start;
+    background-color: #0C0032;
+}
+
+.whitetextone {
+    width: 25%;
+    word-break: break-word;
+    border-radius: 20px;
+    font-size: 14px;
+
+}
+
+.whitetexttwo {
+    word-break: break-word;
+    width: 25%;
+    border-radius: 20px;
+    font-size: 14px;
+    color: #C5C6C7;
+}
+
+.whitetextthree {
+    width: 25%;
+    word-break: break-word;
+    border-radius: 20px;
+    font-size: 14px;
+}
+
+
+.whitetextfour {
+    width: 25%;
+    word-break: break-word;
+    border-radius: 20px;
+    font-size: 14px;
+    color: C5C6C7;
+}
+
+#containerother {
+    display: flex;
+    flex-direction: column;
+    background-color: #0C0032;
+    width: auto;
+    color: #1F2937;
+    flex: 0 0 500px;
+    color: #1F2937;
+    align-items: center;
+    }
+
+#containerothertwo {
+        display: flex;
+        flex-direction: row;
+        width: 1400px;
+        color: white;
+        margin-left: 100px;
+        margin-bottom: ;
+        flex: 1;
+        flex-wrap: wrap;
+        flex-basis: auto;
+        justify-content: flex-start;
+        background-color: #0C0032;
+    }
+
+    
+    .otherone {
+        color: white;
+        width: 25%;
+        word-break: break-word;
+        border-radius: 20px;
+    }
+
+    .othertwo {
+        color: white;
+        width: 25%;
+        word-break: break-word;
+        border-radius: 20px;
+    }
+
+    .otherthree {
+        color: white;
+        width: 25%;
+        word-break: break-word;
+        border-radius: 20px;
+    }
+
+    .otherfour {
+        color: white;
+        width: 25%;
+        word-break: break-word;
+        border-radius: 20px;
+    }
+
+    #sixthimage {
+        max-width:100%;
+        border-radius: 10px;
+        height: 240px;
+    }
+
+    #otherthree {
+        display: flex;
+        flex-direction: row;
+        width: 1400px;
+        height: 100px;
+        color: white;
+        margin-left: 100px;
+        margin-bottom: 75px;
+        flex: 1;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        flex-basis: auto;
+        justify-content: flex-start;
+        background-color: #0C0032;
+    }
+
+    .othertextone {
+        color: white;
+        width: 25%;
+        word-break: break-word;
+        border-radius: 20px;
+    }
+
+    .othertexttwo {
+        color: white;
+        width: 25%;
+        word-break: break-word;
+        border-radius: 20px;
+    }
+
+    .othertextthree {
+        color: white;
+        width: 25%;
+        word-break: break-word;
+        border-radius: 20px;
+    }
+
+    .othertextfour {
+        color: white;
+        width: 25%;
+        word-break: break-word;
+        border-radius: 20px;
+    }
+
+#footer {
+    display: flex;
+    flex-direction: column;
+    background-color: #282828;
+    width: auto;
+    height: 500px;
+    color: white;
+}
+
+.footertitle {
+    color: white;
+    padding-left: 200px;
+}
+.footerparagraph {
+    color: white;
+    padding-left: 200px;
+    padding-bottom:;
+}
+
+#footer {
+    display: flex;
+    flex-direction: column;
+    width: 1713px;
+    height: 200px;
+    color: white;
+    gap: 70px;
+    flex: 1;
+    justify-content: space-between;
+}
